@@ -1,4 +1,4 @@
-// UserProfile.js
+
 import React from 'react';
 import UserHeader from './UserHeader';
 import UserDetails from './UserDetails';

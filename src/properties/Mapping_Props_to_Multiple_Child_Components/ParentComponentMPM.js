@@ -1,8 +1,8 @@
 import React from 'react';
-import ChildComponent from './ChildComponentMPM'; // Replace with the actual path to your ChildComponent file
+import ChildComponent from './ChildComponentMPM';
 
 const ParentComponent = () => {
-  // Sample array of data
+
   const data = [
     { id: 1, name: 'Item 1', description: 'Description for Item 1' },
     { id: 2, name: 'Item 2', description: 'Description for Item 2' },

@@ -5,7 +5,6 @@ const LoadingExample = () => {
   const [data, setData] = useState(null);
 
   useEffect(() => {
-    // Simulate API call after 2 seconds
     setTimeout(() => {
       const mockData = { message: 'Data fetched from API' };
       setData(mockData);

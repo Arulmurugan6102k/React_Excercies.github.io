@@ -5,7 +5,6 @@ function ChildComponent(props) {
   return <div>{message}</div>;
 }
 
-// Define default prop values
 ChildComponent.defaultProps = {
   message: 'Default Message'
 };
