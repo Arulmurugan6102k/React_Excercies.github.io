@@ -1,0 +1,48 @@
+head, body {
+  margin: 10px;
+  width: 5000px;
+}
+h2{
+  color: blue;
+}
+h1{
+  text-decoration: underline;
+  
+}
+.App-header{
+  display: flex;
+  flex-direction: row;
+}
+.ex-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 10px;
+  border: 1px dotted red;border-radius: 5px;
+}
+.container {
+  background-color: lightblue;
+  padding: 20px;
+}
+
+.title {
+  color: darkblue;
+  font-size: 24px;
+}
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.counter {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 300px;
+  margin: 0 auto;
+}
+button {
+  transition: background-color 0.3s ease-in-out;
+}
+
+
