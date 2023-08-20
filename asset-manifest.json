@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_Excercies.github.io/static/css/main.1babad2e.css",
+    "main.js": "/React_Excercies.github.io/static/js/main.c81d8fc2.js",
+    "static/js/787.526e67ce.chunk.js": "/React_Excercies.github.io/static/js/787.526e67ce.chunk.js",
+    "index.html": "/React_Excercies.github.io/index.html",
+    "main.1babad2e.css.map": "/React_Excercies.github.io/static/css/main.1babad2e.css.map",
+    "main.c81d8fc2.js.map": "/React_Excercies.github.io/static/js/main.c81d8fc2.js.map",
+    "787.526e67ce.chunk.js.map": "/React_Excercies.github.io/static/js/787.526e67ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1babad2e.css",
+    "static/js/main.c81d8fc2.js"
+  ]
+}
